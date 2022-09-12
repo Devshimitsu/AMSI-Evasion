@@ -3,9 +3,10 @@
 </div>  
   
 
-### <div align="center">Localhost Refused To Connect</div>
+### <div align="center">Localhost Refused To Connect</div>  
+  
 
-
+<br/>  
 
 
 ## Connect with me  
@@ -43,17 +44,9 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=devshimitsu&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshimitsu&hide_border=true&layout=compact" align="left" />  
-
 <br/>  
 
-
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true&theme=compact" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugizxxoop54yvrgix5xzplf5k4&cover_image=true&theme=compact" /></div>
 
 <br/>  
 
