@@ -15,6 +15,6 @@ printf "%x,%x,%x,%x\n" 192 168 0 1
 
 
 ```bash
-nc -lnvp 52490
+nc -lnvp 28370
 ```
 
